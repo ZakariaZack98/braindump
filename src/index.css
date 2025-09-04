@@ -6,7 +6,7 @@
   --font-poppins: 'Poppins', sans-serif;
 }
 
-.overlay {
+.overlay, .noteprompt {
   background-color: rgba(0, 0, 0, 0.651);
 }
 
